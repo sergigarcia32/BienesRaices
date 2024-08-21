@@ -13,7 +13,7 @@ https://drive.google.com/drive/folders/1JIFVlCGYKNZn5fKB7l3uus3G1-Gn_CKZ?usp=dri
     ```
 2. **Navega al directorio del proyecto**:
     ```bash
-    cd FestivalDeMusica-PerformanceWeb
+    cd BienesRaices
     ```
 3. **Ejecuta el watch**:
     ```bash
