@@ -7,7 +7,8 @@ https://drive.google.com/drive/folders/1JIFVlCGYKNZn5fKB7l3uus3G1-Gn_CKZ?usp=dri
 
 **Ejecuta el watch**:
 
-    ``` bash
+    ``` 
+    bash
     npm run watchArchivos
     ```
 
